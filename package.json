@@ -18,7 +18,7 @@
     "preversion": "echo 'yarn version is disabled. Please use ./scripts/version.sh instead.'; exit 1"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.0.0",
+    "@babel/polyfill": "^7.10.1",
     "@mapbox/tilebelt": "^1.0.1",
     "@react-native-community/art": "^1.2.0",
     "@react-native-community/async-storage": "^1.6.1",
